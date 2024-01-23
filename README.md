@@ -3,7 +3,7 @@
 # NAMES OF GROUP MEMBER
 ---------------------------------------
  Alex Etheridge
- Julia Connell
- Nathaniel DeVoss
- Alex Wright
- Charlie Caldwell
+ <br> Julia Connell
+ <br>Nathaniel DeVoss
+ <br>Alex Wright
+  <br>Charlie Caldwell
